@@ -8,6 +8,6 @@ public class MyfirstijgitController {
 
     @GetMapping("/welcom-message")
     public String welcomeMessage(){
-        return "Welcome, My first IJ Git Test project, Successfully completed my first commit";
+        return "Welcome, My first IJ Git Test project, Successfully completed my first commit.";
     }
 }
